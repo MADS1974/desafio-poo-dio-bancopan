@@ -6,7 +6,7 @@
 
 <p>
 ✅ Conhecer a sintaxe da Java<br>
-✅ Java JDK 11<br> (indicação da tech teacher, mas eu usei a JDK 16)
+✅ Java JDK 11 (indicação da tech teacher, mas eu usei a JDK 16)<br>
 ✅ IDE para desenvolvimento Java (usarei IntelliJ)<br>
 ✅ Git<br>
 ✅ Conta no GitHub<br>
